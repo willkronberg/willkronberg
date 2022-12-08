@@ -1,3 +1,6 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 🔭 I’m currently working on financial software.<br>🌱 I’m currently learning Rust.<br>⚡ I’m Autistic!
 
@@ -14,9 +17,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=willkronberg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=willkronberg&icon=0&color=0)](https://visitcount.itsvg.in)
